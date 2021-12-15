@@ -2,7 +2,7 @@
 
 A function allows to group code into a reusable unit.
 There are multiple ways to define functions in JavaScript.
-Here we will look at _function declarations_ and _function expressions_..
+Here we will look at _function declarations_ and _function expressions_.
 Other possibilities like [arrow functions][concept-arrow-functions] will be covered in other concepts.
 
 ## Function Declaration
